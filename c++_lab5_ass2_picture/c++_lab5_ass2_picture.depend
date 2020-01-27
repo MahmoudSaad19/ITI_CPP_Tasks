@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574401298 source:c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab5_ass2_picture\main.cpp
+	<iostream>
+	"graphics.h"
+
+1509357770 c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab5_ass2_picture\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
