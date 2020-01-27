@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574024372 source:c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab4_ass5_rectangle\main.cpp
+	<iostream>
+	"graphics.h"
+
+1509357770 c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab4_ass5_rectangle\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
+1574028460 source:c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab4_ass5_triangle\main.cpp
+	<iostream>
+	"graphics.h"
+
+1509357770 c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab4_ass5_triangle\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+

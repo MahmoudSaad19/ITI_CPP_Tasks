@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574106507 source:c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab4_ass9_abajora_lamp\main.cpp
+	<iostream>
+	"graphics.h"
+
+1509357770 c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab4_ass9_abajora_lamp\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
+1574162557 source:c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab4_ass5_abajora_lamp\main.cpp
+	<iostream>
+	"graphics.h"
+
+1509357770 c:\users\mahmoud\documents\c&c++ projects\c++ projects\c++_lab4_ass5_abajora_lamp\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
