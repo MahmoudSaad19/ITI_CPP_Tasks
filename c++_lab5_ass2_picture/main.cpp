@@ -7,7 +7,6 @@ class Point
 {
     int x,y;
 public:
-
     Point()
     {
         x=y=0;
@@ -83,7 +82,6 @@ public :
         rl.setX(x2); rl.setY(y2);
         color = c;
     }
-
 };
 
 class Circle:public Shape{
@@ -150,7 +148,6 @@ public :
         line(p2.getX(),p2.getY(),p3.getX(),p3.getY());
         line(p3.getX(),p3.getY(),p1.getX(),p1.getY());
     }
-
 };
 
 class Picture{
@@ -159,6 +156,7 @@ class Picture{
     Line *lArr;
     Tri *tArr;
     int Rnum , Cnum , Lnum , Tnum;
+    
 public:
     Picture(){
         Rnum =0; rArr = NULL;
@@ -202,7 +200,6 @@ public:
         for(int i=0;i<Tnum;i++)
                 tArr[i].draw();
     }
-
 };
 
 int main()
